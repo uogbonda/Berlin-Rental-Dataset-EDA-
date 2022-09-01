@@ -4,7 +4,7 @@ Exploring the Berlin rental dataset.
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Data_Visualization](#data_Visualization)
 
 ## General info
 Exploring the Berlin Rental data set to find out the following:
@@ -27,9 +27,17 @@ The following are Python libraries used:
 - Pandas
 - Seaborn
 
-## Setup
-If there is no python, this can be done by:
-```
-$ python -m pip install <package>
+## Data_Visualization
 
-´´´
+![](Berlin%20Rentals/rr1.png)
+
+![](Berlin%20Rentals/rr2.png)
+
+![](Berlin%20Rentals/roomregion.png)
+
+![](Berlin%20Rentals/roomregion2.png)
+
+![](Berlin%20Rentals/conroom.png)
+
+![](Berlin%20Rentals/conditionrent.png)
+
