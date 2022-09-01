@@ -21,7 +21,7 @@ Scenario: A Company "E" wants to know the rental information in Berlin. Which ar
 Project performed on:
 * Jupyter Notebook.
 * Python version: 3.8.8
-**Python libraries:
+** Python libraries:
 - Pandas
 - Seaborn
 
